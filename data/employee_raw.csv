@@ -1,0 +1,7 @@
+id,name,age,salary,department,city
+1,Amit Sharma,28,45000,IT,Pune
+2,Priya Patil,26,42000,HR,Mumbai
+3,Rahul Verma,32,65000,Finance,Delhi
+4,Neha Singh,29,52000,IT,Noida
+5,Suresh Kumar,35,75000,Finance,Chennai
+6,Kavita Joshi,30,,HR,Pune
